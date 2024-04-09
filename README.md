@@ -1,1 +1,2 @@
-“Rasika Baskaran”
+Rasika Baskaran
+baskarar@oregonstate.edu
